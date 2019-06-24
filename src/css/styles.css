@@ -1,0 +1,9 @@
+.blue {
+  background-color: blue;
+}
+.hello {
+    color: red;
+    background: url('../quokka.jpg');
+    width: 200px;
+    height: 200px;
+  }
